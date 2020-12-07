@@ -37,11 +37,10 @@ Use the [newsapi](https://newsapi.org/) to pull the latest news articles for Bit
 Use descriptive statistics to answer the following questions:
 
 > Which coin had the highest mean positive score?
-> Eth had a higher mean positive score at 0.072 v Btc at 0.052.
+>
 > Which coin had the highest negative score?
-> Btc had the highest negative score with 0.213 v Eth at 0.097.
+>
 > Which coin had the highest positive score?
-> Eth had the highest positive score at 0.297 v Btc at 0.174.
 
 #### Natural Language Processing
 
